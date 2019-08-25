@@ -23,7 +23,6 @@ File destFile = new File(ServletActionContext.getServletContext()
 .getRealPath("/upload" + "/" + filename));
 FileUtils.copyFile(srcFile, destFile);
 }
-add func3
 return NONE;
 }
 }
