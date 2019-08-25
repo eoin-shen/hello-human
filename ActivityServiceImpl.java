@@ -27,3 +27,4 @@ return NONE;
 }
 }
 new add func2
+add test1
