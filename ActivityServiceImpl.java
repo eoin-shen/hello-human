@@ -26,3 +26,4 @@ FileUtils.copyFile(srcFile, destFile);
 return NONE;
 }
 }
+new add func2
